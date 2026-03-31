@@ -24,8 +24,7 @@ dist/
 # ========================
 # 🧠 GO CACHE
 # ========================
-go.sum
-*.mod
+
 vendor/
 
 # (Agar vendor ishlatsang — yuqoridagini o‘chir)

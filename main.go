@@ -18,7 +18,7 @@ import (
 )
 
 // test
-const WebAppURL = "https://neonatal-leeanne-unroped.ngrok-free.dev"
+const WebAppURL = ""
 
 var globalBot *telebot.Bot
 

@@ -18,7 +18,7 @@ import (
 )
 
 // test
-const WebAppURL = ""
+const WebAppURL = "https://aichatbot-production-c614.up.railway.app/"
 
 var globalBot *telebot.Bot
 

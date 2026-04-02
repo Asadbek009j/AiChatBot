@@ -46,7 +46,6 @@ func main() {
 			log.Println("[BOT] Rasm yuborishda xato:", err)
 		}
 	}
-
 	// parallel ishga tushiramiz
 	go startWebServer()
 	startBot()
